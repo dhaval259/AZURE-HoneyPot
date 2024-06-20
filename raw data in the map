@@ -12,3 +12,13 @@ frlog_CL
 | summarize event_count=count() by sourcehost, latitude, longitude, country, label, destinationhost
 | where destinationhost != "samplehost"
 | where sourcehost != ""
+
+#explaination
+#         extend:This command is used to create new columns in the raw data by extracting specific pieces of data from the RawData column.
+#         extract("pattern", captureGroup, RawData) is used to find specific patterns in the RawData and create new columns based on these patterns.
+#         project:This command is used to select specific columns to keep in the result set, Only the listed columns will be included in the output.
+#         where:These commands filter the data based on certain conditions.
+#                  where destinationhost != "samplehost"
+#                  where sourcehost != ""
+#         The first where clause removes any rows where destinationhost is "samplehost".
+#         The second where clause removes any rows where sourcehost is an empty string.
