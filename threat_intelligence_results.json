@@ -1,0 +1,122 @@
+{
+    "113.160.104.13": {
+        "country": "VN",
+        "network": "113.160.0.0/11",
+        "reputation": 0,
+        "last_analysis_stats": {
+            "malicious": 1,
+            "suspicious": 0,
+            "undetected": 32,
+            "harmless": 61,
+            "timeout": 0
+        }
+    },
+    "152.89.198.238": {
+        "country": "SC",
+        "network": "152.89.198.0/24",
+        "reputation": -1,
+        "last_analysis_stats": {
+            "malicious": 9,
+            "suspicious": 1,
+            "undetected": 29,
+            "harmless": 55,
+            "timeout": 0
+        }
+    },
+    "31.43.185.41": {
+        "country": "UA",
+        "network": "31.43.185.0/24",
+        "reputation": 0,
+        "last_analysis_stats": {
+            "malicious": 1,
+            "suspicious": 1,
+            "undetected": 33,
+            "harmless": 59,
+            "timeout": 0
+        }
+    },
+    "94.76.207.192": {
+        "country": "GB",
+        "network": "94.76.192.0/18",
+        "reputation": 0,
+        "last_analysis_stats": {
+            "malicious": 2,
+            "suspicious": 0,
+            "undetected": 33,
+            "harmless": 59,
+            "timeout": 0
+        }
+    },
+    "45.143.201.131": {
+        "country": "RU",
+        "network": "45.143.201.0/24",
+        "reputation": -2,
+        "last_analysis_stats": {
+            "malicious": 7,
+            "suspicious": 2,
+            "undetected": 30,
+            "harmless": 55,
+            "timeout": 0
+        }
+    },
+    "31.43.185.42": {
+        "country": "UA",
+        "network": "31.43.185.0/24",
+        "reputation": -1,
+        "last_analysis_stats": {
+            "malicious": 2,
+            "suspicious": 1,
+            "undetected": 32,
+            "harmless": 59,
+            "timeout": 0
+        }
+    },
+    "31.43.185.40": {
+        "country": "UA",
+        "network": "31.43.185.0/24",
+        "reputation": -1,
+        "last_analysis_stats": {
+            "malicious": 2,
+            "suspicious": 1,
+            "undetected": 32,
+            "harmless": 59,
+            "timeout": 0
+        }
+    },
+    "31.43.185.39": {
+        "country": "UA",
+        "network": "31.43.185.0/24",
+        "reputation": -1,
+        "last_analysis_stats": {
+            "malicious": 6,
+            "suspicious": 2,
+            "undetected": 31,
+            "harmless": 55,
+            "timeout": 0
+        }
+    },
+    "185.170.144.3": {
+        "country": "EE",
+        "network": "185.170.144.0/24",
+        "reputation": -7,
+        "last_analysis_stats": {
+            "malicious": 14,
+            "suspicious": 3,
+            "undetected": 26,
+            "harmless": 51,
+            "timeout": 0
+        }
+    },
+    "152.58.62.138": {
+        "country": "IN",
+        "network": "152.56.0.0/14",
+        "reputation": 0,
+        "last_analysis_stats": {
+            "malicious": 0,
+            "suspicious": 0,
+            "undetected": 94,
+            "harmless": 0,
+            "timeout": 0
+        }
+    }
+}
